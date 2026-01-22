@@ -1,7 +1,11 @@
-Button 1
-When user clicks the button
-Show message: xin chào
+Application: Sample App
 
-Button 2
-When user clicks the button
-Show message: tạm biệt
+Button id: btnHello
+Text: Click me
+OnClick:
+- Display message: "xin chào"
+
+Button id: btnBye
+Text: Click me again
+OnClick:
+- Display message: "tạm biệt"
