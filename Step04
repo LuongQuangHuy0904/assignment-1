@@ -1,3 +1,6 @@
-Button 1
-When user clicks the button
-Show message: xin chào
+Application: Sample App
+
+Button id: btnHello
+Text: Click me
+OnClick:
+- Display message: "xin chào"
